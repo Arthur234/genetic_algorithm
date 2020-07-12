@@ -1,10 +1,6 @@
-genetics-experiments
-====================
 
-My experiments with genetic algorithms
+Experiments with genetic algorithms
 
-The source code for the habrahabr post:
-http://habrahabr.ru/post/246951
 
 evolution.py -- the source code for the genetic algorithm  
 text-processin.py -- processing textual data and running the genetic algorithm on it  
